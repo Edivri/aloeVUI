@@ -11,8 +11,8 @@ class _PlantListState extends State<PlantList> {
 
   List allDescriptions = [
     'Aloe vera is a succelent plant of the genus Aloe. I\'ts medicinal uses and air purifying ability make it the plant that you shouldn\'t live without.',
-    'Some other description',
-    'Third description'
+    'Aloe is widely distributed, and is considered an invasive species in many world regions.',
+    'An evergreen perennial, it originates from the Arabian Peninsula, but grows wild in tropical, semi-tropical, and arid climates around the world.'
   ];
 
   String description;

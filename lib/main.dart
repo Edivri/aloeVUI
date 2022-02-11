@@ -58,7 +58,7 @@ class _MyHomePageState extends State<MyHomePage>
         Padding(
           padding: const EdgeInsets.all(14.0),
           child: Text(
-            'Top Picks',
+            'Green',
             style: TextStyle(
                 fontFamily: 'Montserrat',
                 fontSize: 40.0,
